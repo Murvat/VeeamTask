@@ -1,0 +1,10 @@
+2025-06-20 21:02:54 - Deleted: Replica\Hello.txt
+2025-06-20 21:02:54 - Deleted: Replica\night2.txt
+2025-06-20 21:03:19 - Copied: Source\New Text Document.txt → Replica\New Text Document.txt
+2025-06-20 21:03:25 - Copied: Source\Hello.txt → Replica\Hello.txt
+2025-06-20 21:03:25 - Deleted: Replica\New Text Document.txt
+2025-06-20 21:03:30 - Copied: Source\World.txt → Replica\World.txt
+2025-06-20 21:03:45 - Copied: Source\Night\New Text Document.txt → Replica\Night\New Text Document.txt
+2025-06-20 21:03:49 - Copied: Source\Night\Bus.txt → Replica\Night\Bus.txt
+2025-06-20 21:03:49 - Deleted: Replica\Night\New Text Document.txt
+2025-06-20 21:04:25 - Copied: Source\MMM.txt → Replica\MMM.txt

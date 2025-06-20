@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\VeeamTask\VeeamTask\bin\Debug\net8.0\VeeamTask.exe
+C:\Users\User\source\repos\VeeamTask\VeeamTask\bin\Debug\net8.0\VeeamTask.deps.json
+C:\Users\User\source\repos\VeeamTask\VeeamTask\bin\Debug\net8.0\VeeamTask.runtimeconfig.json
+C:\Users\User\source\repos\VeeamTask\VeeamTask\bin\Debug\net8.0\VeeamTask.dll
+C:\Users\User\source\repos\VeeamTask\VeeamTask\bin\Debug\net8.0\VeeamTask.pdb
+C:\Users\User\source\repos\VeeamTask\VeeamTask\obj\Debug\net8.0\VeeamTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\VeeamTask\VeeamTask\obj\Debug\net8.0\VeeamTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\VeeamTask\VeeamTask\obj\Debug\net8.0\VeeamTask.AssemblyInfo.cs
+C:\Users\User\source\repos\VeeamTask\VeeamTask\obj\Debug\net8.0\VeeamTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VeeamTask\VeeamTask\obj\Debug\net8.0\VeeamTask.sourcelink.json
+C:\Users\User\source\repos\VeeamTask\VeeamTask\obj\Debug\net8.0\VeeamTask.dll
+C:\Users\User\source\repos\VeeamTask\VeeamTask\obj\Debug\net8.0\refint\VeeamTask.dll
+C:\Users\User\source\repos\VeeamTask\VeeamTask\obj\Debug\net8.0\VeeamTask.pdb
+C:\Users\User\source\repos\VeeamTask\VeeamTask\obj\Debug\net8.0\VeeamTask.genruntimeconfig.cache
+C:\Users\User\source\repos\VeeamTask\VeeamTask\obj\Debug\net8.0\ref\VeeamTask.dll
