@@ -1,0 +1,2 @@
+This
+is a C# console application that performs one-way synchronization from a source folder to a replica folder. It periodically ensures the replica matches the source by copying new or updated files and deleting any that no longer exist in the source. All operations are logged to both the console and a log file. Folder paths, log file path, and synchronization interval are provided via command-line arguments.
